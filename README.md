@@ -1,3 +1,7 @@
+https://www.joonapp.io/download-joon?campaign=tiktok-new-creative
+
+
+
 # Adlerian-psychology
 
 阿德勒的个体心理学理论是心理学领域的一个重要分支，它强调自卑感、社会兴趣、生活风格等概念。然而，基于特定心理学理论开发的游戏在市面上相对较少，特别是针对阿德勒理论的游戏可能不容易找到。
