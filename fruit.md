@@ -126,3 +126,43 @@
 自制,节制,对欲望和冲动保持控制，追求自我平衡。,陈皮,陈皮的平衡和节制象征着自我控制，它帮助保持欲望的平衡。
 自制,控制,在各种情况下保持自律，控制自己的行为。,甘草,甘草的控制和稳定象征着自律，它帮助保持行为的自律。
 
+
+
+Design a digital card with the following features:
+
+Front:
+
+Centered image of a rose.
+Text at the top: '仁爱'
+Text below the image: '同理心'
+Back:
+
+Title at the top: '说明'
+Description: '对他人的感受和需求表现出深刻的理解和关怀。'
+Title below: '代表的植物'
+Text: '玫瑰'
+Title below: '故事'
+Story: '在古老的花园里，玫瑰象征着深情和关怀，它的芬芳传递了同理心的力量。'
+Use a clean, elegant design with a soft color palette that complements the rose image."
+
+
+
+
+Here's a prompt for generating a digital card image in English:
+
+"Create a digital card with these features:
+
+**Front:**
+- Centered image of a rose.
+- Text at the top: 'Compassion'
+- Text below the image: 'Empathy'
+
+**Back:**
+- Title at the top: 'Description'
+- Description: 'Demonstrates a deep understanding and care for others' feelings and needs.'
+- Title below: 'Representative Plant'
+- Text: 'Rose'
+- Title below: 'Story'
+- Story: 'In ancient gardens, the rose symbolizes deep affection and care. Its fragrance conveys the power of empathy.'
+
+Use a clean, elegant design with a soft color palette that complements the rose image."
